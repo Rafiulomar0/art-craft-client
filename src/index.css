@@ -1,3 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Playwrite+MX:wght@100..400&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.playwrite-mx {
+  font-family: "Playwrite MX", cursive;
+}
+
+.noto-sans-jp {
+  font-family: "Noto Sans JP", sans-serif;
+}

@@ -1,8 +1,12 @@
+import { Outlet } from "react-router-dom";
+import Navbar from "./components/Navbar/Navbar";
+
 function App() {
   return (
-    <>
-      <h2>Art and Craft</h2>
-    </>
+    <div className="noto-sans-jp">
+      <Navbar></Navbar>
+      <Outlet></Outlet>
+    </div>
   );
 }
 

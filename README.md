@@ -8,6 +8,11 @@
     -
     -
 
+## Font used:
+
+    - Noto Sans JP
+    - Playwrite MX
+
 ## Package used
 
     - React Slick
